@@ -233,8 +233,8 @@ section{
   font-size: 16px;
 }
 
-.about-text h3 span:nth-child(1):after,
-.about-text h3 span:nth-child(2):after{
+/* .about-text h3 span:nth-child(1):after, */
+.about-text h3 span:nth-child(1):after{
   content: "";
   width: 6px;
   height: 6px;
